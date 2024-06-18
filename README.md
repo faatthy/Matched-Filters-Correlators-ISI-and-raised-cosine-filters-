@@ -1,5 +1,5 @@
 ###                     Matched Filters, Correlators, ISI, and raised cosine filters 
-## System Discribtion
+## System Description
 ![image](https://github.com/faatthy/Matched-Filters-Correlators-ISI-and-raised-cosine-filters-/assets/110846097/5eb77bbc-af9d-4b2b-8ecf-0d95590ae9e6)
 
 ## Matched filters and correlators in noise-free 
